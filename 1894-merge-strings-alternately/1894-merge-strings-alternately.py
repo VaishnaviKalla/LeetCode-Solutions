@@ -5,18 +5,21 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
-        word = list(word1 + word2) 
+        word = word1 + word2
         n1 = len(word1)
         n2 = len(word2)
-        result = []
 
         i = j = 0
-        for k in range(n1 + n2):
-            if i < n1:
-                result.append(word[i])
-                i += 1
-            if j < n2:
-                result.append(word[n1 + j]) 
-                j += 1
+        result_word = ''
+        while i < n1 and j < n2:
+            result_word += word[i]         
+            result_word += word[n1 + j]    
+            i +=1
+            j +=1
 
-        return ''.join(result)
+        if i == n1:
+            result_word += word[n1 + j:]  
+        if j == n2:
+            result_word += word[i:n1]  
+
+        return result_word
