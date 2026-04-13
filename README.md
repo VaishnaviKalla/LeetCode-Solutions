@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -42,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
