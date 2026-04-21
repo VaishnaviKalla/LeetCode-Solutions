@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
