@@ -29,6 +29,7 @@
 | [0020-valid-parentheses](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -84,9 +85,11 @@
 | [0009-palindrome-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
@@ -111,4 +114,8 @@
 | [0595-big-countries](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
