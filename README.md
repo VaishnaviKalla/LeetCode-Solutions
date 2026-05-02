@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
@@ -128,4 +129,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
