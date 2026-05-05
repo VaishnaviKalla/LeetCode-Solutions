@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
