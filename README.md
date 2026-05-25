@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -52,6 +53,7 @@
 | [0027-remove-element](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -66,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
