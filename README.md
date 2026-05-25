@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
