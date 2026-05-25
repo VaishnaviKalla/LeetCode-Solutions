@@ -26,6 +26,7 @@
 | [1470-shuffle-the-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -139,6 +140,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
