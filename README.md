@@ -108,11 +108,13 @@
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
