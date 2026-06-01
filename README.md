@@ -31,6 +31,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -85,6 +86,7 @@
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
 | ------- |
