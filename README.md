@@ -48,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -60,6 +61,7 @@
 | [0219-contains-duplicate-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
 | ------- |
