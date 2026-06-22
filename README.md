@@ -31,6 +31,7 @@
 | [1470-shuffle-the-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -92,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
@@ -192,4 +195,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
