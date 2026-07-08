@@ -38,6 +38,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2460-apply-operations-to-an-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## String
@@ -85,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -184,6 +186,7 @@
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
