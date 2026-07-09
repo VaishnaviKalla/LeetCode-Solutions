@@ -36,6 +36,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 ## Stack
 |  |
 | ------- |
