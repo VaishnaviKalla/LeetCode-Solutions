@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -86,6 +87,7 @@
 | [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -149,6 +151,7 @@
 | [0066-plus-one](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
