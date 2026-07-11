@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
@@ -151,6 +153,7 @@
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Math
@@ -183,6 +186,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
