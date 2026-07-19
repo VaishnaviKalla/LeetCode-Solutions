@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -138,6 +139,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -244,6 +246,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1672-richest-customer-wealth](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Interactive
 |  |
@@ -265,4 +268,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
