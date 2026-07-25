@@ -39,6 +39,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -89,6 +90,7 @@
 | [0525-contiguous-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -149,6 +151,7 @@
 | [0525-contiguous-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -205,6 +208,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
