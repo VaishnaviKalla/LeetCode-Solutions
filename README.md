@@ -52,6 +52,7 @@
 | [1652-defuse-the-bomb](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1920-build-array-from-permutation](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2460-apply-operations-to-an-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
