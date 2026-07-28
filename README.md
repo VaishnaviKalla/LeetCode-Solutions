@@ -172,6 +172,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -190,6 +191,7 @@
 | [0189-rotate-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
