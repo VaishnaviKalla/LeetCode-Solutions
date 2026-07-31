@@ -7,9 +7,10 @@ public:
                 result+= tolower(c);
             }
         }
+
         int left = 0, right = result.size()-1;
         while(left<right){
-            if(result[left]!=result[right]){
+            if(result[left] != result[right]){
                 return false;
             }
             left++;
