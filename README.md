@@ -84,6 +84,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -106,6 +107,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
