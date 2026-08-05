@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -100,6 +101,7 @@
 | [0219-contains-duplicate-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
