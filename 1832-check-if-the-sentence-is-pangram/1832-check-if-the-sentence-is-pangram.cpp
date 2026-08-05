@@ -1,16 +1,18 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        vector<int> freq(26);
+        vector<bool> freq(26, false);
+        int unique = 0;
         for(char c:sentence){
-            freq[c - 'a']++;
-        }
+            if(!freq[c - 'a']){
+                freq[c - 'a'] = true;
+                unique++;
+            }
 
-        for(int i=0; i<26; i++){
-            if(freq[i]== 0){
-                return false;
+            if(unique==26){
+                return true;
             }
         }
-        return true;
+        return false;
     }
 };
