@@ -79,6 +79,7 @@
 | [0344-reverse-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -104,6 +105,7 @@
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -151,6 +153,7 @@
 | [0217-contains-duplicate](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -224,6 +227,7 @@
 | [0067-add-binary](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
