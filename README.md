@@ -93,6 +93,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -143,6 +144,7 @@
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
