@@ -83,6 +83,7 @@
 | [0383-ransom-note](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -138,6 +139,7 @@
 | [0189-rotate-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +153,7 @@
 | [0053-maximum-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
