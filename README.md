@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0860-lemonade-change) |
