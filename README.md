@@ -42,6 +42,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -302,6 +303,7 @@
 | [0011-container-with-most-water](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VaishnaviKalla/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
